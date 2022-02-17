@@ -22,3 +22,6 @@ The purpose of this repo is to showcase how to use `Github` and `git`.
 ## Content by the branch of Tony
 This is some content created by Tony.
 And this is a second line.
+
+## Content by the branch of Andreas
+This is the beginning of the test and I guess here is where it ends.
