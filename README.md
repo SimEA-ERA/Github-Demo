@@ -25,3 +25,6 @@ And this is a second line.
 
 ## Content by the branch of Andreas
 This is the beginning of the test and I guess here is where it ends.
+
+## Content by the branch of Yannis
+Bla bla bla ... 
