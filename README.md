@@ -28,3 +28,6 @@ This is the beginning of the test and I guess here is where it ends.
 
 ## Content by the branch of Yannis
 Bla bla bla ... 
+
+## Content by the branch of George
+Test
