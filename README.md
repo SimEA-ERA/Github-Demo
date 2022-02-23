@@ -4,7 +4,7 @@ The purpose of this repo is to showcase how to use `Github` and `git`.
 
 1. Clone repository somewhere locally
 2. Change a file, e.g., README file
-3. `git add <file>` or `git add .` 
+3. `git add <file>` or `git add .`
 4. `git commit -m "Some comments"`
 5. `git push origin <branch_name>
 
@@ -27,7 +27,11 @@ And this is a second line.
 This is the beginning of the test and I guess here is where it ends.
 
 ## Content by the branch of Yannis
-Bla bla bla ... 
+Bla bla bla ...
 
 ## Content by the branch of George
 Test
+
+## Content by the branch of Nikolas
+The blue shoes 
+https://www.youtube.com/watch?v=VGM8KQHByCE
